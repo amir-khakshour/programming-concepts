@@ -402,9 +402,3 @@ lott.org/resources/cmetrics/>).
 [6] Code Coverage Analysis (<http://www.bullseye.com/webCoverage.html>).
 
 [7] Secure Programming Lint (<http://www.splint.org/>).
-
-  
-
-  
-**1** [2](/defensive-programming/184401915?pgno=2) [Next](/defensive-programming/184401915?pgno=2)
-
